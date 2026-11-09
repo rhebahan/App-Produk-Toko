@@ -29,3 +29,16 @@ Aplikasi desktop JavaFX untuk mencatat daftar produk toko.
 <img width="1920" height="1080" alt="Screenshot 2026-11-09 202347" src="https://github.com/user-attachments/assets/d9898eb7-ddc9-4915-adc8-ac85e6193c95" />
 <img width="1920" height="1080" alt="Screenshot 2026-11-09 202405" src="https://github.com/user-attachments/assets/77b83223-6f62-4019-ad20-d7c6c3f39235" />
 
+
+## Cara menjalankan
+### Lewat NetBeans
+1. Clone atau unduh repository ini.
+2. Buka NetBeans, pilih File → Open Project, lalu pilih folder AppProdukToko.
+3. Klik kanan proyek → Clean and Build.
+4. Klik kanan proyek → Run.
+
+### Lewat Terminal
+```bash
+git clone <url-repository-ini>
+cd AppProdukToko
+mvn clean javafx:run```
