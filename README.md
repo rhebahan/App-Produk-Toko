@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-11-09 202249" src="https://github.com/user-attachments/assets/16f0b04f-cf76-4fd6-83b7-ac6eea3b73b5" /># App Produk Toko
+# App Produk Toko
 Aplikasi desktop JavaFX untuk mencatat daftar produk toko.
 
 ## Fitur
