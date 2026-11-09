@@ -39,6 +39,6 @@ Aplikasi desktop JavaFX untuk mencatat daftar produk toko.
 
 ### Lewat Terminal
 ```bash
-git clone <url-repository-ini>
+git clone <https://github.com/rhebahan/App-Produk-Toko.git>
 cd AppProdukToko
 mvn clean javafx:run```
